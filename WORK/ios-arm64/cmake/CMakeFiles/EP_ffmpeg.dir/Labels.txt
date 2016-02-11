@@ -1,0 +1,14 @@
+# Target labels
+ EP_ffmpeg
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_ffmpeg
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_ffmpeg.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_ffmpeg-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-build.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ffmpeg/EP_ffmpeg-postinstall.rule

@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/dummy_libraries/arm64-apple-darwin-ar cq libmsamr.a  CMakeFiles/msamr.dir/libmsamr.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/dummy_libraries/arm64-apple-darwin-ranlib libmsamr.a

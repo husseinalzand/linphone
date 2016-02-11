@@ -1,0 +1,4 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/tester/CMakeFiles/linphonetester.dir
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/share/CMakeFiles/rootca.dir
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/coreapi/CMakeFiles/linphone.dir
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/coreapi/CMakeFiles/liblinphone-git-version.dir

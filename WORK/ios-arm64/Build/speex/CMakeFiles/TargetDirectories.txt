@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/speex/libspeex/CMakeFiles/speexdsp.dir
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/speex/libspeex/CMakeFiles/speex.dir

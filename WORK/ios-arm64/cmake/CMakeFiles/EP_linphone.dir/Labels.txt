@@ -1,0 +1,13 @@
+# Target labels
+ EP_linphone
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_linphone
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_linphone.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_linphone-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-build.rule

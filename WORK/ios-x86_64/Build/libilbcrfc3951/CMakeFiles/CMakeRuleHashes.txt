@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+6bb8dcc3e363b1767195722d078e91c9 FrameClassify.c

@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/ms2/src/CMakeFiles/mediastreamer_voip.dir
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/ms2/src/CMakeFiles/mediastreamer_base.dir

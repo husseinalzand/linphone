@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+0407aae79bcaaa0e4a19be1cd1ae194d src/basedescs.h
+141105a6e471db290795c65f75e35b1d src/gitversion.h
+4655f2d3d23008dfb5d568d0d49561df src/voipdescs.h
+b0926c939adad649b1f85d862ef3b1ab src/yuv2rgb.fs.h
+42e4b13d8177ac6a0cf83153e30de881 src/yuv2rgb.vs.h

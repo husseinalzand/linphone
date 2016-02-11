@@ -1,0 +1,30 @@
+Determining if the include file malloc.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b9f70/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b9f70.dir/build.make CMakeFiles/cmTC_b9f70.dir/build
+Building C object CMakeFiles/cmTC_b9f70.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_b9f70.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'malloc.h' file not found
+#include <malloc.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_b9f70.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_b9f70/fast] Error 2
+
+
+Determining if the include file socket.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4bbb2/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4bbb2.dir/build.make CMakeFiles/cmTC_4bbb2.dir/build
+Building C object CMakeFiles/cmTC_4bbb2.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_4bbb2.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'socket.h' file not found
+#include <socket.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_4bbb2.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_4bbb2/fast] Error 2
+
+

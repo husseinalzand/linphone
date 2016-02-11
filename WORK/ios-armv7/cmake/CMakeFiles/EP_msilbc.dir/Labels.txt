@@ -1,0 +1,13 @@
+# Target labels
+ EP_msilbc
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_msilbc
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_msilbc.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_msilbc-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_msilbc/EP_msilbc-build.rule

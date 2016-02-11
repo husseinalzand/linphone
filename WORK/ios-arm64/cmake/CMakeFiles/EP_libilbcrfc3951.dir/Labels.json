@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_libilbcrfc3951"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_libilbcrfc3951.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_libilbcrfc3951-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_libilbcrfc3951" ],
+		"name" : "EP_libilbcrfc3951"
+	}
+}

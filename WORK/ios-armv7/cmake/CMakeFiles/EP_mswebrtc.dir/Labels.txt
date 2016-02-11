@@ -1,0 +1,13 @@
+# Target labels
+ EP_mswebrtc
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_mswebrtc
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_mswebrtc.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_mswebrtc-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_mswebrtc/EP_mswebrtc-build.rule

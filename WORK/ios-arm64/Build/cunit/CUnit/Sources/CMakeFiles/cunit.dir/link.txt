@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/cunit/arm64-apple-darwin-ar cq libcunit.a  CMakeFiles/cunit.dir/Framework/CUError.c.o CMakeFiles/cunit.dir/Framework/MyMem.c.o CMakeFiles/cunit.dir/Framework/TestDB.c.o CMakeFiles/cunit.dir/Framework/TestRun.c.o CMakeFiles/cunit.dir/Framework/Util.c.o CMakeFiles/cunit.dir/Basic/Basic.c.o CMakeFiles/cunit.dir/Automated/Automated.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/cunit/arm64-apple-darwin-ranlib libcunit.a

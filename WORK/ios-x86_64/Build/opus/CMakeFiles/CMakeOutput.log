@@ -1,0 +1,15 @@
+The target system is: Darwin -  - x86_64
+The host system is: Darwin - 14.4.0 - x86_64
+Performing C SOURCE FILE Test VAR_ARRAYS succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6989f/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6989f.dir/build.make CMakeFiles/cmTC_6989f.dir/build
+Building C object CMakeFiles/cmTC_6989f.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/opus/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DVAR_ARRAYS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_6989f.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_6989f
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6989f.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/opus/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DVAR_ARRAYS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6989f.dir/src.c.o  -o cmTC_6989f  
+
+Source file was:
+int main(int argc, char *argv[]) { static int x; char a[++x]; a[sizeof a - 1] = 0; int N; return a[0]; }

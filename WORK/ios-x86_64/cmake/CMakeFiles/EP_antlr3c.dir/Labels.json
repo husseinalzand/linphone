@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_antlr3c"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_antlr3c.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_antlr3c-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_antlr3c/EP_antlr3c-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_antlr3c" ],
+		"name" : "EP_antlr3c"
+	}
+}

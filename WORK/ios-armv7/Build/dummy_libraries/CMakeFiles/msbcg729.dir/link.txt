@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/dummy_libraries/armv7-apple-darwin-ar cq libmsbcg729.a  CMakeFiles/msbcg729.dir/libmsbcg729.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/dummy_libraries/armv7-apple-darwin-ranlib libmsbcg729.a

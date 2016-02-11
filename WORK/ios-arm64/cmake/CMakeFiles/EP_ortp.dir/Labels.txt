@@ -1,0 +1,13 @@
+# Target labels
+ EP_ortp
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_ortp
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_ortp.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_ortp-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_ortp/EP_ortp-build.rule

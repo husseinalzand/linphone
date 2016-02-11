@@ -1,0 +1,1 @@
+cmd='/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/EP_ffmpeg_configure.sh'

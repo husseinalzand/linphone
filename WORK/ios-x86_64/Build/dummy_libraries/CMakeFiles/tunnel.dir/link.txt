@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/dummy_libraries/x86_64-apple-darwin-ar cq libtunnel.a  CMakeFiles/tunnel.dir/libtunnel.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/dummy_libraries/x86_64-apple-darwin-ranlib libtunnel.a

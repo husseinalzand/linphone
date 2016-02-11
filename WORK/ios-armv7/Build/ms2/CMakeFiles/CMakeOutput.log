@@ -1,0 +1,374 @@
+The target system is: Darwin -  - armv7
+The host system is: Darwin - 14.4.0 - x86_64
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7d8a4/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7d8a4.dir/build.make CMakeFiles/cmTC_7d8a4.dir/build
+Building C object CMakeFiles/cmTC_7d8a4.dir/CheckIncludeFiles.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_7d8a4.dir/CheckIncludeFiles.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTC_7d8a4
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7d8a4.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_7d8a4.dir/CheckIncludeFiles.c.o  -o cmTC_7d8a4  
+
+
+Determining if the pthread_create exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cbd2b/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_cbd2b.dir/build.make CMakeFiles/cmTC_cbd2b.dir/build
+Building C object CMakeFiles/cmTC_cbd2b.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_cbd2b.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_cbd2b
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbd2b.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_cbd2b.dir/CheckSymbolExists.c.o  -o cmTC_cbd2b  
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file sys/shm.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9c4b0/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9c4b0.dir/build.make CMakeFiles/cmTC_9c4b0.dir/build
+Building C object CMakeFiles/cmTC_9c4b0.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_9c4b0.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_9c4b0
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9c4b0.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9c4b0.dir/CheckIncludeFile.c.o  -o cmTC_9c4b0  
+
+
+Determining if the include file alloca.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_22f61/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_22f61.dir/build.make CMakeFiles/cmTC_22f61.dir/build
+Building C object CMakeFiles/cmTC_22f61.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_22f61.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_22f61
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_22f61.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_22f61.dir/CheckIncludeFile.c.o  -o cmTC_22f61  
+
+
+Determining if the function dlopen exists in the dl passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f944e/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_f944e.dir/build.make CMakeFiles/cmTC_f944e.dir/build
+Building C object CMakeFiles/cmTC_f944e.dir/CheckFunctionExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DCHECK_FUNCTION_EXISTS=dlopen -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_f944e.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.3.2/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f944e
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f944e.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DCHECK_FUNCTION_EXISTS=dlopen -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_f944e.dir/CheckFunctionExists.c.o  -o cmTC_f944e  -ldl 
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_16ae2/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_16ae2.dir/build.make CMakeFiles/cmTC_16ae2.dir/build
+Building C object CMakeFiles/cmTC_16ae2.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_16ae2.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_16ae2
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16ae2.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_16ae2.dir/CheckIncludeFile.c.o  -o cmTC_16ae2  
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b5864/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b5864.dir/build.make CMakeFiles/cmTC_b5864.dir/build
+Building C object CMakeFiles/cmTC_b5864.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_b5864.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_b5864
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b5864.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b5864.dir/CheckIncludeFile.c.o  -o cmTC_b5864  
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_664f0/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_664f0.dir/build.make CMakeFiles/cmTC_664f0.dir/build
+Building C object CMakeFiles/cmTC_664f0.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_664f0.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_664f0
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_664f0.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_664f0.dir/CheckIncludeFile.c.o  -o cmTC_664f0  
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bb947/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_bb947.dir/build.make CMakeFiles/cmTC_bb947.dir/build
+Building C object CMakeFiles/cmTC_bb947.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_bb947.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c
+Linking C executable cmTC_bb947
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bb947.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_bb947.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o  -o cmTC_bb947  
+
+
+Performing C SOURCE FILE Test X509PARSE_CRTPATH_OK succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9dc6b/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9dc6b.dir/build.make CMakeFiles/cmTC_9dc6b.dir/build
+Building C object CMakeFiles/cmTC_9dc6b.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DX509PARSE_CRTPATH_OK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_9dc6b.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/src.c
+In file included from /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/src.c:4:
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:53:2: warning: "You can disable these warnings by commenting SHOW_PROTOTYPE_CHANGE_WARNINGS in compat-1.2.h" [-W#warnings]
+#warning "You can disable these warnings by commenting SHOW_PROTOTYPE_CHANGE_WARNINGS in compat-1.2.h"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:156:2: warning: "cipher_reset() prototype changed. Manual change required if used" [-W#warnings]
+#warning "cipher_reset() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:171:2: warning: "rsa_pkcs1_verify() prototype changed. Manual change required if used" [-W#warnings]
+#warning "rsa_pkcs1_verify() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:172:2: warning: "rsa_pkcs1_decrypt() prototype changed. Manual change required if used" [-W#warnings]
+#warning "rsa_pkcs1_decrypt() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:178:2: warning: "dhm_calc_secret() prototype changed. Manual change required if used" [-W#warnings]
+#warning "dhm_calc_secret() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:184:2: warning: "gcm_init() prototype changed. Manual change required if used" [-W#warnings]
+#warning "gcm_init() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include/polarssl/compat-1.2.h:190:2: warning: "ssl_set_own_cert() prototype changed. Change to ssl_set_own_cert_rsa(). Manual change required if used" [-W#warnings]
+#warning "ssl_set_own_cert() prototype changed. Change to ssl_set_own_cert_rsa(). Manual change required if used"
+ ^
+7 warnings generated.
+Linking C executable cmTC_9dc6b
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9dc6b.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DX509PARSE_CRTPATH_OK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9dc6b.dir/src.c.o  -o cmTC_9dc6b  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libpolarssl.a 
+
+Source file was:
+#include <polarssl/version.h>
+#include <polarssl/x509.h>
+#if POLARSSL_VERSION_NUMBER >= 0x01030000
+#include <polarssl/compat-1.2.h>
+#endif
+int main(int argc, char *argv[]) {
+x509parse_crtpath(0,0);
+return 0;
+}
+Determining if the ssl_get_dtls_srtp_protection_profile exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9adad/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9adad.dir/build.make CMakeFiles/cmTC_9adad.dir/build
+Building C object CMakeFiles/cmTC_9adad.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_9adad.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_9adad
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9adad.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9adad.dir/CheckSymbolExists.c.o  -o cmTC_9adad  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libpolarssl.a 
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <polarssl/ssl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef ssl_get_dtls_srtp_protection_profile
+  return ((int*)(&ssl_get_dtls_srtp_protection_profile))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the avcodec_get_context_defaults3 exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_55415/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_55415.dir/build.make CMakeFiles/cmTC_55415.dir/build
+Building C object CMakeFiles/cmTC_55415.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_55415.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_55415
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55415.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_55415.dir/CheckSymbolExists.c.o  -o cmTC_55415  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libswscale.a 
+ld: warning: ARM function not 4-byte aligned: __b_evaluation from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __a_evaluation from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __end_b_evaluation2 from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __a_evaluation2 from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __end_simple_idct_arm from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in _ff_dsputil_init_arm from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(dsputil_init_arm.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libavcodec/avcodec.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef avcodec_get_context_defaults3
+  return ((int*)(&avcodec_get_context_defaults3))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the avcodec_open2 exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f293b/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_f293b.dir/build.make CMakeFiles/cmTC_f293b.dir/build
+Building C object CMakeFiles/cmTC_f293b.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_f293b.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_f293b
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f293b.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_f293b.dir/CheckSymbolExists.c.o  -o cmTC_f293b  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libswscale.a 
+ld: warning: ARM function not 4-byte aligned: __b_evaluation from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __a_evaluation from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __end_b_evaluation2 from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __a_evaluation2 from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __end_simple_idct_arm from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in _ff_dsputil_init_arm from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(dsputil_init_arm.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libavcodec/avcodec.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef avcodec_open2
+  return ((int*)(&avcodec_open2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the avcodec_encode_video2 exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0159c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_0159c.dir/build.make CMakeFiles/cmTC_0159c.dir/build
+Building C object CMakeFiles/cmTC_0159c.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_0159c.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_0159c
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0159c.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_0159c.dir/CheckSymbolExists.c.o  -o cmTC_0159c  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libswscale.a 
+ld: warning: ARM function not 4-byte aligned: __b_evaluation from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __a_evaluation from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __end_b_evaluation2 from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __a_evaluation2 from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: ARM function not 4-byte aligned: __end_simple_idct_arm from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(simple_idct_arm.o)
+ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in _ff_dsputil_init_arm from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a(dsputil_init_arm.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libavcodec/avcodec.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef avcodec_encode_video2
+  return ((int*)(&avcodec_encode_video2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the av_frame_alloc exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_61d03/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_61d03.dir/build.make CMakeFiles/cmTC_61d03.dir/build
+Building C object CMakeFiles/cmTC_61d03.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_61d03.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_61d03
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_61d03.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_61d03.dir/CheckSymbolExists.c.o  -o cmTC_61d03  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libswscale.a 
+ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in _av_d2str from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a(avstring.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libavutil/avutil.h>
+#include <libavutil/frame.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef av_frame_alloc
+  return ((int*)(&av_frame_alloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the av_frame_free exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0b7a9/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_0b7a9.dir/build.make CMakeFiles/cmTC_0b7a9.dir/build
+Building C object CMakeFiles/cmTC_0b7a9.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_0b7a9.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_0b7a9
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0b7a9.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_0b7a9.dir/CheckSymbolExists.c.o  -o cmTC_0b7a9  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libswscale.a 
+ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in _av_d2str from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a(avstring.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libavutil/avutil.h>
+#include <libavutil/frame.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef av_frame_free
+  return ((int*)(&av_frame_free))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the av_frame_unref exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a7e6b/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a7e6b.dir/build.make CMakeFiles/cmTC_a7e6b.dir/build
+Building C object CMakeFiles/cmTC_a7e6b.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include    -o CMakeFiles/cmTC_a7e6b.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a7e6b
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a7e6b.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a7e6b.dir/CheckSymbolExists.c.o  -o cmTC_a7e6b  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavcodec.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libswscale.a 
+ld: warning: PIE disabled. Absolute addressing (perhaps -mdynamic-no-pic) not allowed in code signed PIE, but used in _av_d2str from /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/libavutil.a(avstring.o). To fix this warning, don't compile with -mdynamic-no-pic or link with -Wl,-no_pie
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/ms2/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libavutil/avutil.h>
+#include <libavutil/frame.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef av_frame_unref
+  return ((int*)(&av_frame_unref))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

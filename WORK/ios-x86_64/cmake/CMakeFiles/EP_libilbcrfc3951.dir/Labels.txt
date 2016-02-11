@@ -1,0 +1,13 @@
+# Target labels
+ EP_libilbcrfc3951
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_libilbcrfc3951
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_libilbcrfc3951.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_libilbcrfc3951-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_libilbcrfc3951/EP_libilbcrfc3951-build.rule

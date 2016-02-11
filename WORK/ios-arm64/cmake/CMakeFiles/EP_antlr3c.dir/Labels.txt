@@ -1,0 +1,13 @@
+# Target labels
+ EP_antlr3c
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_antlr3c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_antlr3c.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_antlr3c-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_antlr3c/EP_antlr3c-build.rule

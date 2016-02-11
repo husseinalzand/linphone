@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_msilbc"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_msilbc.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_msilbc-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_msilbc/EP_msilbc-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_msilbc" ],
+		"name" : "EP_msilbc"
+	}
+}

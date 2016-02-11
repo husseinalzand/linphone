@@ -1,0 +1,30 @@
+Determining if the include file sys/audioio.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_96d98/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_96d98.dir/build.make CMakeFiles/cmTC_96d98.dir/build
+Building C object CMakeFiles/cmTC_96d98.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_96d98.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/audioio.h' file not found
+#include <sys/audioio.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_96d98.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_96d98/fast] Error 2
+
+
+Determining if the include file sys/soundcard.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3a6c2/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_3a6c2.dir/build.make CMakeFiles/cmTC_3a6c2.dir/build
+Building C object CMakeFiles/cmTC_3a6c2.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_3a6c2.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/soundcard.h' file not found
+#include <sys/soundcard.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_3a6c2.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_3a6c2/fast] Error 2
+
+

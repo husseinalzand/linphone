@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_mssilk"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_mssilk.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_mssilk-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_mssilk/EP_mssilk-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_mssilk" ],
+		"name" : "EP_mssilk"
+	}
+}
