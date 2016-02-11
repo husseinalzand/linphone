@@ -1,0 +1,29 @@
+Determining if the CU_curses_run_tests exist failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5c3a9/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5c3a9.dir/build.make CMakeFiles/cmTC_5c3a9.dir/build
+Building C object CMakeFiles/cmTC_5c3a9.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include    -o CMakeFiles/cmTC_5c3a9.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: use of undeclared identifier 'CU_curses_run_tests'
+  return ((int*)(&CU_curses_run_tests))[argc];
+                  ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_5c3a9.dir/CheckSymbolExists.c.o] Error 1
+make[5]: *** [cmTC_5c3a9/fast] Error 2
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/linphone/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <CUnit/CUnit.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CU_curses_run_tests
+  return ((int*)(&CU_curses_run_tests))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

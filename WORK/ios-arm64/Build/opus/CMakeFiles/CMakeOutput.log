@@ -1,0 +1,15 @@
+The target system is: Darwin -  - aarch64
+The host system is: Darwin - 14.4.0 - x86_64
+Performing C SOURCE FILE Test VAR_ARRAYS succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_68305/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_68305.dir/build.make CMakeFiles/cmTC_68305.dir/build
+Building C object CMakeFiles/cmTC_68305.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/opus/arm64-apple-darwin-clang   -arch arm64 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch arm64 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DVAR_ARRAYS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_68305.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_68305
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_68305.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/opus/arm64-apple-darwin-clang   -arch arm64 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch arm64 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DVAR_ARRAYS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_68305.dir/src.c.o  -o cmTC_68305  
+
+Source file was:
+int main(int argc, char *argv[]) { static int x; char a[++x]; a[sizeof a - 1] = 0; int N; return a[0]; }

@@ -1,0 +1,45 @@
+Determining if the include file byteswap.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fe2c5/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fe2c5.dir/build.make CMakeFiles/cmTC_fe2c5.dir/build
+Building C object CMakeFiles/cmTC_fe2c5.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_fe2c5.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'byteswap.h' file not found
+#include <byteswap.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_fe2c5.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_fe2c5/fast] Error 2
+
+
+Determining if the include file sys/int_types.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_66676/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_66676.dir/build.make CMakeFiles/cmTC_66676.dir/build
+Building C object CMakeFiles/cmTC_66676.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_66676.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/int_types.h' file not found
+#include <sys/int_types.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_66676.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_66676/fast] Error 2
+
+
+Determining if the include file windows.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fff4d/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fff4d.dir/build.make CMakeFiles/cmTC_fff4d.dir/build
+Building C object CMakeFiles/cmTC_fff4d.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_fff4d.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'windows.h' file not found
+#include <windows.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_fff4d.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_fff4d/fast] Error 2
+
+

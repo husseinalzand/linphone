@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/dummy_libraries/armv7-apple-darwin-ar cq libopenh264.a  CMakeFiles/openh264.dir/libopenh264.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/dummy_libraries/armv7-apple-darwin-ranlib libopenh264.a

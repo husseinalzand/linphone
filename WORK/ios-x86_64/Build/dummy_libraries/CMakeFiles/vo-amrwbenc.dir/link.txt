@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/dummy_libraries/x86_64-apple-darwin-ar cq libvo-amrwbenc.a  CMakeFiles/vo-amrwbenc.dir/libvo-amrwbenc.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/dummy_libraries/x86_64-apple-darwin-ranlib libvo-amrwbenc.a

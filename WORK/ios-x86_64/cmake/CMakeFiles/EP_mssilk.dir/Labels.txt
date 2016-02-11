@@ -1,0 +1,13 @@
+# Target labels
+ EP_mssilk
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_mssilk
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_mssilk.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_mssilk-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mssilk/EP_mssilk-build.rule

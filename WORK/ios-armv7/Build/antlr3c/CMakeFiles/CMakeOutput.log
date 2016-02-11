@@ -1,0 +1,194 @@
+The target system is: Darwin -  - armv7
+The host system is: Darwin - 14.4.0 - x86_64
+Determining if the include file arpa/nameser.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6e6f3/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6e6f3.dir/build.make CMakeFiles/cmTC_6e6f3.dir/build
+Building C object CMakeFiles/cmTC_6e6f3.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_6e6f3.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6e6f3
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6e6f3.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6e6f3.dir/CheckIncludeFile.c.o  -o cmTC_6e6f3  
+
+
+Determining if the include file ctype.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_44e7a/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_44e7a.dir/build.make CMakeFiles/cmTC_44e7a.dir/build
+Building C object CMakeFiles/cmTC_44e7a.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_44e7a.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_44e7a
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_44e7a.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_44e7a.dir/CheckIncludeFile.c.o  -o cmTC_44e7a  
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_171a2/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_171a2.dir/build.make CMakeFiles/cmTC_171a2.dir/build
+Building C object CMakeFiles/cmTC_171a2.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_171a2.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_171a2
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_171a2.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_171a2.dir/CheckIncludeFile.c.o  -o cmTC_171a2  
+
+
+Determining if the include file memory.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6b491/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6b491.dir/build.make CMakeFiles/cmTC_6b491.dir/build
+Building C object CMakeFiles/cmTC_6b491.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_6b491.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6b491
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6b491.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6b491.dir/CheckIncludeFile.c.o  -o cmTC_6b491  
+
+
+Determining if the include file netdb.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ec0d6/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ec0d6.dir/build.make CMakeFiles/cmTC_ec0d6.dir/build
+Building C object CMakeFiles/cmTC_ec0d6.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_ec0d6.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_ec0d6
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ec0d6.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ec0d6.dir/CheckIncludeFile.c.o  -o cmTC_ec0d6  
+
+
+Determining if the include file netinet/in.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e70bf/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e70bf.dir/build.make CMakeFiles/cmTC_e70bf.dir/build
+Building C object CMakeFiles/cmTC_e70bf.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_e70bf.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_e70bf
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e70bf.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e70bf.dir/CheckIncludeFile.c.o  -o cmTC_e70bf  
+
+
+Determining if the include file netinet/tcp.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9bbb2/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9bbb2.dir/build.make CMakeFiles/cmTC_9bbb2.dir/build
+Building C object CMakeFiles/cmTC_9bbb2.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_9bbb2.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_9bbb2
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bbb2.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9bbb2.dir/CheckIncludeFile.c.o  -o cmTC_9bbb2  
+
+
+Determining if the include file stdarg.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ecf03/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ecf03.dir/build.make CMakeFiles/cmTC_ecf03.dir/build
+Building C object CMakeFiles/cmTC_ecf03.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_ecf03.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_ecf03
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ecf03.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ecf03.dir/CheckIncludeFile.c.o  -o cmTC_ecf03  
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4e205/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4e205.dir/build.make CMakeFiles/cmTC_4e205.dir/build
+Building C object CMakeFiles/cmTC_4e205.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_4e205.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_4e205
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4e205.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4e205.dir/CheckIncludeFile.c.o  -o cmTC_4e205  
+
+
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e99d3/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e99d3.dir/build.make CMakeFiles/cmTC_e99d3.dir/build
+Building C object CMakeFiles/cmTC_e99d3.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_e99d3.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_e99d3
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e99d3.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e99d3.dir/CheckIncludeFile.c.o  -o cmTC_e99d3  
+
+
+Determining if the include file strings.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6010c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6010c.dir/build.make CMakeFiles/cmTC_6010c.dir/build
+Building C object CMakeFiles/cmTC_6010c.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_6010c.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6010c
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6010c.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6010c.dir/CheckIncludeFile.c.o  -o cmTC_6010c  
+
+
+Determining if the include file string.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_26c73/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_26c73.dir/build.make CMakeFiles/cmTC_26c73.dir/build
+Building C object CMakeFiles/cmTC_26c73.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_26c73.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_26c73
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_26c73.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_26c73.dir/CheckIncludeFile.c.o  -o cmTC_26c73  
+
+
+Determining if the include file sys/socket.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1579a/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_1579a.dir/build.make CMakeFiles/cmTC_1579a.dir/build
+Building C object CMakeFiles/cmTC_1579a.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_1579a.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_1579a
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1579a.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1579a.dir/CheckIncludeFile.c.o  -o cmTC_1579a  
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_17337/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_17337.dir/build.make CMakeFiles/cmTC_17337.dir/build
+Building C object CMakeFiles/cmTC_17337.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_17337.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_17337
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17337.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_17337.dir/CheckIncludeFile.c.o  -o cmTC_17337  
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cb61a/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_cb61a.dir/build.make CMakeFiles/cmTC_cb61a.dir/build
+Building C object CMakeFiles/cmTC_cb61a.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_cb61a.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_cb61a
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb61a.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_cb61a.dir/CheckIncludeFile.c.o  -o cmTC_cb61a  
+
+
+Determining if the include file unistd.h exists passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_18b42/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_18b42.dir/build.make CMakeFiles/cmTC_18b42.dir/build
+Building C object CMakeFiles/cmTC_18b42.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_18b42.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_18b42
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_18b42.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_18b42.dir/CheckIncludeFile.c.o  -o cmTC_18b42  
+
+

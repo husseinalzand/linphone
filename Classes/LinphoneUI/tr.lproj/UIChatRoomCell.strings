@@ -1,0 +1,27 @@
+
+/* Class = "IBUIButton"; accessibilityLabel = "Delete message"; ObjectID = "18"; */
+"18.accessibilityLabel" = "Delete message";
+
+/* Class = "IBUILabel"; text = "09/09/2009 at 09:09"; ObjectID = "22"; */
+"22.text" = "09/09/2009 at 09:09";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Message status"; ObjectID = "26"; */
+"26.accessibilityLabel" = "Message status";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Download"; ObjectID = "33"; */
+"33.accessibilityLabel" = "Download";
+
+/* Class = "IBUIButton"; normalTitle = "Download image"; ObjectID = "33"; */
+"33.normalTitle" = "Download image";
+
+/* Class = "IBUITextView"; accessibilityLabel = "Chat Message"; ObjectID = "43"; */
+"43.accessibilityLabel" = "Chat Message";
+
+/* Class = "IBUITextView"; text = "They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety."; ObjectID = "43"; */
+"43.text" = "They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Cancel transfer"; ObjectID = "fGh-KI-efm"; */
+"fGh-KI-efm.accessibilityLabel" = "Cancel transfer";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel transfer"; ObjectID = "fGh-KI-efm"; */
+"fGh-KI-efm.normalTitle" = "Cancel transfer";

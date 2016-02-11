@@ -1,0 +1,30 @@
+
+/* Class = "IBUIButton"; accessibilityLabel = "Back"; ObjectID = "9"; */
+"9.accessibilityLabel" = "Back";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Edit"; ObjectID = "10"; */
+"10.accessibilityLabel" = "Edit";
+
+/* Class = "IBUIButton"; selectedTitle = "Ok"; ObjectID = "10"; */
+"10.selectedTitle" = "Ok";
+
+/* Class = "IBUILabel"; accessibilityLabel = "Contact name"; ObjectID = "40"; */
+"40.accessibilityLabel" = "Contact name";
+
+/* Class = "IBUILabel"; text = "Contact1"; ObjectID = "40"; */
+"40.text" = "Contact1";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Contact avatar"; ObjectID = "41"; */
+"41.accessibilityLabel" = "Contact avatar";
+
+/* Class = "IBUIView"; accessibilityLabel = "Message field"; ObjectID = "63"; */
+"63.accessibilityLabel" = "Message field";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Send picture"; ObjectID = "73"; */
+"73.accessibilityLabel" = "Send picture";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "Nb3-mN-pKi"; */
+"Nb3-mN-pKi.normalTitle" = "Gönder";
+
+/* Class = "IBUILabel"; text = "%@ is composing..."; ObjectID = "fpY-Fv-ht2"; */
+"fpY-Fv-ht2.text" = "%@ is composing...";

@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.3.2/bin/cmake;-DENABLE_PROGRAMS=0;-DENABLE_TESTING=0;-DUSE_SHARED_POLARSSL_LIBRARY=0;-C/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64//tmp/EP_polarssl/EP_polarssl-cache-$<CONFIG>.cmake;-GUnix Makefiles;/Users/husseinalzandvirtual/linphone-iphone/submodules/externals/polarssl'

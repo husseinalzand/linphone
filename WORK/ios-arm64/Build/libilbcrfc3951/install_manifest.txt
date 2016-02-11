@@ -1,0 +1,8 @@
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/lib/libilbcrfc3951.a
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/include/ilbc/iLBC_decode.h
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/include/ilbc/iLBC_define.h
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/include/ilbc/iLBC_encode.h
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/lib/cmake/IlbcRfc3951/IlbcRfc3951Targets.cmake
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/lib/cmake/IlbcRfc3951/IlbcRfc3951Targets-release.cmake
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/lib/cmake/IlbcRfc3951/IlbcRfc3951Config.cmake
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/arm64-apple-darwin.ios/lib/cmake/IlbcRfc3951/IlbcRfc3951ConfigVersion.cmake

@@ -1,0 +1,74 @@
+The target system is: Darwin -  - armv7
+The host system is: Darwin - 14.4.0 - x86_64
+Performing C SOURCE FILE Test VAR_ARRAYS succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e8462/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e8462.dir/build.make CMakeFiles/cmTC_e8462.dir/build
+Building C object CMakeFiles/cmTC_e8462.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DVAR_ARRAYS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_e8462.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_e8462
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e8462.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DVAR_ARRAYS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e8462.dir/src.c.o  -o cmTC_e8462  
+
+Source file was:
+int main(int argc, char *argv[]) { static int x; char a[++x]; a[sizeof a - 1] = 0; int N; return a[0]; }
+Performing C SOURCE FILE Test OPUS_ARM_INLINE_ASM succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_80fed/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_80fed.dir/build.make CMakeFiles/cmTC_80fed.dir/build
+Building C object CMakeFiles/cmTC_80fed.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_ASM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_80fed.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_80fed
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80fed.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_ASM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_80fed.dir/src.c.o  -o cmTC_80fed  
+
+Source file was:
+
+#ifdef __GNUC_MINOR__
+#if (__GNUC__ * 1000 + __GNUC_MINOR__) < 3004
+#error GCC before 3.4 has critical bugs compiling inline assembly
+#endif
+#endif
+int main(int argc, char *argv[]) { __asm__ (""); }
+
+Performing C SOURCE FILE Test OPUS_ARM_INLINE_EDSP succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_62497/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_62497.dir/build.make CMakeFiles/cmTC_62497.dir/build
+Building C object CMakeFiles/cmTC_62497.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_EDSP -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_62497.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_62497
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62497.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_EDSP -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_62497.dir/src.c.o  -o cmTC_62497  
+
+Source file was:
+int main(int argc, char *argv[]) { __asm__("qadd r3,r3,r3"); }
+Performing C SOURCE FILE Test OPUS_ARM_INLINE_MEDIA succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_18eb3/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_18eb3.dir/build.make CMakeFiles/cmTC_18eb3.dir/build
+Building C object CMakeFiles/cmTC_18eb3.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_MEDIA -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_18eb3.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_18eb3
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_18eb3.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_MEDIA -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_18eb3.dir/src.c.o  -o cmTC_18eb3  
+
+Source file was:
+int main(int argc, char *argv[]) { __asm__("shadd8 r3,r3,r3"); }
+Performing C SOURCE FILE Test OPUS_ARM_INLINE_NEON succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_62474/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_62474.dir/build.make CMakeFiles/cmTC_62474.dir/build
+Building C object CMakeFiles/cmTC_62474.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_NEON -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_62474.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_62474
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62474.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/opus/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DOPUS_ARM_INLINE_NEON -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_62474.dir/src.c.o  -o cmTC_62474  
+
+Source file was:
+int main(int argc, char *argv[]) { __asm__("vorr d0,d0,d0"); }

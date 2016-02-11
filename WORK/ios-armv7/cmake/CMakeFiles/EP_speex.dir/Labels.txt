@@ -1,0 +1,13 @@
+# Target labels
+ EP_speex
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_speex
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_speex.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_speex-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-build.rule

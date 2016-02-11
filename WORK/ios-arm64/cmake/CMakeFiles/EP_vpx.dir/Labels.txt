@@ -1,0 +1,13 @@
+# Target labels
+ EP_vpx
+# Source files and their labels
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_vpx
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_vpx.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_vpx-complete.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-install.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-mkdir.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-download.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-update.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-patch.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-configure.rule
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_vpx/EP_vpx-build.rule

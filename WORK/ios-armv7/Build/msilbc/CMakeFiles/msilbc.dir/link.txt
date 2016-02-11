@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/msilbc/armv7-apple-darwin-ar cq libmsilbc.a  CMakeFiles/msilbc.dir/ilbc.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/msilbc/armv7-apple-darwin-ranlib libmsilbc.a

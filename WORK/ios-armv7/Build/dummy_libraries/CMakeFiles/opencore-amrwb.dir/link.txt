@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/dummy_libraries/armv7-apple-darwin-ar cq libopencore-amrwb.a  CMakeFiles/opencore-amrwb.dir/libopencore-amrwb.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/dummy_libraries/armv7-apple-darwin-ranlib libopencore-amrwb.a

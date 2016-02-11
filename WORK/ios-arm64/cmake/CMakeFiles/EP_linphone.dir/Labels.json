@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_linphone"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_linphone.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_linphone-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Stamp/EP_linphone/EP_linphone-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_linphone" ],
+		"name" : "EP_linphone"
+	}
+}

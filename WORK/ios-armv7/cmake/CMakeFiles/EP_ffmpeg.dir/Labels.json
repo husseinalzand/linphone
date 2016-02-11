@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_ffmpeg"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_ffmpeg.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_ffmpeg-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-build.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_ffmpeg/EP_ffmpeg-postinstall.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_ffmpeg" ],
+		"name" : "EP_ffmpeg"
+	}
+}

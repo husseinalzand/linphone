@@ -1,0 +1,60 @@
+Determining if the include file sys/audioio.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b694f/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b694f.dir/build.make CMakeFiles/cmTC_b694f.dir/build
+Building C object CMakeFiles/cmTC_b694f.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_b694f.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/audioio.h' file not found
+#include <sys/audioio.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_b694f.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_b694f/fast] Error 2
+
+
+Determining if the include file sys/soundcard.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_30aea/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_30aea.dir/build.make CMakeFiles/cmTC_30aea.dir/build
+Building C object CMakeFiles/cmTC_30aea.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_30aea.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/soundcard.h' file not found
+#include <sys/soundcard.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_30aea.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_30aea/fast] Error 2
+
+
+Performing C SOURCE FILE Test HAS_SSE failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5fffa/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5fffa.dir/build.make CMakeFiles/cmTC_5fffa.dir/build
+Building C object CMakeFiles/cmTC_5fffa.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DHAS_SSE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_5fffa.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/src.c
+In file included from /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/src.c:1:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/include/xmmintrin.h:28:2: error: "SSE instruction set not enabled"
+#error "SSE instruction set not enabled"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/src.c:2:1: error: unknown type name '__m128'
+__m128 testfunc(float *a, float *b) {
+^
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/src.c:3:8: warning: implicit declaration of function '_mm_add_ps' is invalid in C99 [-Wimplicit-function-declaration]
+return _mm_add_ps(_mm_loadu_ps(a), _mm_loadu_ps(b));
+       ^
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/speex/CMakeFiles/CMakeTmp/src.c:3:19: warning: implicit declaration of function '_mm_loadu_ps' is invalid in C99 [-Wimplicit-function-declaration]
+return _mm_add_ps(_mm_loadu_ps(a), _mm_loadu_ps(b));
+                  ^
+2 warnings and 2 errors generated.
+make[6]: *** [CMakeFiles/cmTC_5fffa.dir/src.c.o] Error 1
+make[5]: *** [cmTC_5fffa/fast] Error 2
+
+Source file was:
+#include <xmmintrin.h>
+__m128 testfunc(float *a, float *b) {
+return _mm_add_ps(_mm_loadu_ps(a), _mm_loadu_ps(b));
+}
+int main(int argc, char *argv[]) {}

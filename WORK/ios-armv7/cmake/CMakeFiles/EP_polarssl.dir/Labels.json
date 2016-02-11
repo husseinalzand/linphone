@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_polarssl"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_polarssl.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_polarssl-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-install.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-download.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-update.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Stamp/EP_polarssl/EP_polarssl-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_polarssl" ],
+		"name" : "EP_polarssl"
+	}
+}

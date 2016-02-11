@@ -1,0 +1,95 @@
+The target system is: Darwin -  - x86_64
+The host system is: Darwin - 14.4.0 - x86_64
+Determining if the function sqrt exists in the m passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1a4c0/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_1a4c0.dir/build.make CMakeFiles/cmTC_1a4c0.dir/build
+Building C object CMakeFiles/cmTC_1a4c0.dir/CheckFunctionExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DCHECK_FUNCTION_EXISTS=sqrt -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk   -o CMakeFiles/cmTC_1a4c0.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.3.2/share/cmake/Modules/CheckFunctionExists.c
+/usr/local/Cellar/cmake/3.3.2/share/cmake/Modules/CheckFunctionExists.c:3:6: warning: incompatible redeclaration of library function 'sqrt' [-Wincompatible-library-redeclaration]
+char CHECK_FUNCTION_EXISTS();
+     ^
+<command line>:6:31: note: expanded from here
+#define CHECK_FUNCTION_EXISTS sqrt
+                              ^
+/usr/local/Cellar/cmake/3.3.2/share/cmake/Modules/CheckFunctionExists.c:3:6: note: 'sqrt' is a builtin with type 'double (double)'
+<command line>:6:31: note: expanded from here
+#define CHECK_FUNCTION_EXISTS sqrt
+                              ^
+1 warning generated.
+Linking C executable cmTC_1a4c0
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1a4c0.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DCHECK_FUNCTION_EXISTS=sqrt -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1a4c0.dir/CheckFunctionExists.c.o  -o cmTC_1a4c0  -lm 
+
+
+Performing C SOURCE FILE Test X509PARSE_CRTPATH_OK succeded with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b389f/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b389f.dir/build.make CMakeFiles/cmTC_b389f.dir/build
+Building C object CMakeFiles/cmTC_b389f.dir/src.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DX509PARSE_CRTPATH_OK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include    -o CMakeFiles/cmTC_b389f.dir/src.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp/src.c
+In file included from /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp/src.c:4:
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:53:2: warning: "You can disable these warnings by commenting SHOW_PROTOTYPE_CHANGE_WARNINGS in compat-1.2.h" [-W#warnings]
+#warning "You can disable these warnings by commenting SHOW_PROTOTYPE_CHANGE_WARNINGS in compat-1.2.h"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:156:2: warning: "cipher_reset() prototype changed. Manual change required if used" [-W#warnings]
+#warning "cipher_reset() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:171:2: warning: "rsa_pkcs1_verify() prototype changed. Manual change required if used" [-W#warnings]
+#warning "rsa_pkcs1_verify() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:172:2: warning: "rsa_pkcs1_decrypt() prototype changed. Manual change required if used" [-W#warnings]
+#warning "rsa_pkcs1_decrypt() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:178:2: warning: "dhm_calc_secret() prototype changed. Manual change required if used" [-W#warnings]
+#warning "dhm_calc_secret() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:184:2: warning: "gcm_init() prototype changed. Manual change required if used" [-W#warnings]
+#warning "gcm_init() prototype changed. Manual change required if used"
+ ^
+/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/polarssl/compat-1.2.h:190:2: warning: "ssl_set_own_cert() prototype changed. Change to ssl_set_own_cert_rsa(). Manual change required if used" [-W#warnings]
+#warning "ssl_set_own_cert() prototype changed. Change to ssl_set_own_cert_rsa(). Manual change required if used"
+ ^
+7 warnings generated.
+Linking C executable cmTC_b389f
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b389f.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -DX509PARSE_CRTPATH_OK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b389f.dir/src.c.o  -o cmTC_b389f  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/libpolarssl.a 
+
+Source file was:
+#include <polarssl/version.h>
+#include <polarssl/x509.h>
+#if POLARSSL_VERSION_NUMBER >= 0x01030000
+#include <polarssl/compat-1.2.h>
+#endif
+int main(int argc, char *argv[]) {
+x509parse_crtpath(0,0);
+return 0;
+}
+Determining if the ssl_get_dtls_srtp_protection_profile exist passed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6d6d6/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6d6d6.dir/build.make CMakeFiles/cmTC_6d6d6.dir/build
+Building C object CMakeFiles/cmTC_6d6d6.dir/CheckSymbolExists.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -I/Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include    -o CMakeFiles/cmTC_6d6d6.dir/CheckSymbolExists.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_6d6d6
+/usr/local/Cellar/cmake/3.3.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6d6d6.dir/link.txt --verbose=1
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/x86_64-apple-darwin-clang   -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -arch x86_64 -mios-simulator-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6d6d6.dir/CheckSymbolExists.c.o  -o cmTC_6d6d6  /Users/husseinalzandvirtual/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/libpolarssl.a 
+
+File /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <polarssl/ssl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef ssl_get_dtls_srtp_protection_profile
+  return ((int*)(&ssl_get_dtls_srtp_protection_profile))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

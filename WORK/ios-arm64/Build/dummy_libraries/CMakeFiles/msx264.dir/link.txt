@@ -1,0 +1,2 @@
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/dummy_libraries/arm64-apple-darwin-ar cq libmsx264.a  CMakeFiles/msx264.dir/libmsx264.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-arm64/Build/dummy_libraries/arm64-apple-darwin-ranlib libmsx264.a

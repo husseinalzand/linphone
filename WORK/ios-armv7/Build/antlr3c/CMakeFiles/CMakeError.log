@@ -1,0 +1,45 @@
+Determining if the include file malloc.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c68c7/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c68c7.dir/build.make CMakeFiles/cmTC_c68c7.dir/build
+Building C object CMakeFiles/cmTC_c68c7.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_c68c7.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'malloc.h' file not found
+#include <malloc.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_c68c7.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_c68c7/fast] Error 2
+
+
+Determining if the include file socket.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b32d6/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b32d6.dir/build.make CMakeFiles/cmTC_b32d6.dir/build
+Building C object CMakeFiles/cmTC_b32d6.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_b32d6.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'socket.h' file not found
+#include <socket.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_b32d6.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_b32d6/fast] Error 2
+
+
+Determining if the include file sys/malloc.h exists failed with the following output:
+Change Dir: /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cdde0/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_cdde0.dir/build.make CMakeFiles/cmTC_cdde0.dir/build
+Building C object CMakeFiles/cmTC_cdde0.dir/CheckIncludeFile.c.o
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/armv7-apple-darwin-clang   -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -Dasm=__asm -mcpu=cortex-a8 -arch armv7 -miphoneos-version-min=6.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk   -o CMakeFiles/cmTC_cdde0.dir/CheckIncludeFile.c.o   -c /Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/husseinalzandvirtual/linphone-iphone/WORK/ios-armv7/Build/antlr3c/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/malloc.h' file not found
+#include <sys/malloc.h>
+         ^
+1 error generated.
+make[6]: *** [CMakeFiles/cmTC_cdde0.dir/CheckIncludeFile.c.o] Error 1
+make[5]: *** [cmTC_cdde0/fast] Error 2
+
+

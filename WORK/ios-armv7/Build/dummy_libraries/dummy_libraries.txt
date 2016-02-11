@@ -1,0 +1,11 @@
+libopenh264
+libopencore-amrnb
+libtunnel
+libopencore-amrwb
+libvo-amrwbenc
+libmsbcg729
+libmsamr
+libbcg729
+libx264
+libmsopenh264
+libmsx264
